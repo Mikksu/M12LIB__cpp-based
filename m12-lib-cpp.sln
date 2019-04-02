@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m12lib", "m12lib\m12_lib_cpp_based.vcxproj", "{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Debug|x64.ActiveCfg = Debug|x64
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Debug|x64.Build.0 = Debug|x64
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Debug|x86.ActiveCfg = Debug|Win32
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Debug|x86.Build.0 = Debug|Win32
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Release|x64.ActiveCfg = Release|x64
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Release|x64.Build.0 = Release|x64
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Release|x86.ActiveCfg = Release|Win32
+		{651D4BAA-3AD6-4C7F-A69D-F850FC9C1D12}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E30A4E-F3D0-4C22-973A-EF77D8FF786B}
+	EndGlobalSection
+EndGlobal
